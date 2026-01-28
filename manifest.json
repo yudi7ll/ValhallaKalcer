@@ -4,6 +4,7 @@
   "version_number": "1.0.0",
   "website_url": "https://github.com/yudi7ll/ValhallaKalcer",
   "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2333",
     "shudnal-ConfigurationManager-1.1.12",
     "aruberuto-AreaRepair-1.0.4",
     "Trinsic-Better_Wisplight-1.0.0",
