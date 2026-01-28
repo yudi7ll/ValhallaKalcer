@@ -1,0 +1,27 @@
+{
+  "name": "ValhallaKalcer",
+  "description": "nyawit",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/yudi7ll/ValhallaKalcer",
+  "dependencies": [
+    "shudnal-ConfigurationManager-1.1.12",
+    "aruberuto-AreaRepair-1.0.4",
+    "Trinsic-Better_Wisplight-1.0.0",
+    "OdinPlus-OdinsFoodBarrels-1.2.1",
+    "probablykory-UsefulTrophies-2.2.2",
+    "Advize-PlantEverything-1.20.0",
+    "Azumatt-Recycle_N_Reclaim-1.3.10",
+    "Crystal-Pathfinder-2.0.13",
+    "Mydayyy-ServerSideMap-1.3.13",
+    "VentureValheim-Venture_Floating_Items-0.3.3",
+    "Smoothbrain-SailingSpeed-1.0.3",
+    "V2-CombatStaminaMod-1.8.0",
+    "Revel-StaminaSense-1.0.0",
+    "Marlthon-SeaAnimals-0.3.1",
+    "Marlthon-TheFisher-0.3.1",
+    "Searica-SkilledCarryWeight-1.4.1",
+    "Marlthon-OdinShip-0.7.2",
+    "Marlthon-AirAnimals-0.2.4",
+    "MidnightMods-ValheimArmory-1.26.0"
+  ]
+}
