@@ -1,7 +1,7 @@
 {
   "name": "ValhallaKalcer",
   "description": "nyawit",
-  "version_number": "1.1.0",
+  "version_number": "1.1.1",
   "website_url": "https://github.com/yudi7ll/ValhallaKalcer",
   "dependencies": [
     "shudnal-ConfigurationManager-1.1.12",
@@ -21,6 +21,7 @@
     "Marlthon-TheFisher-0.3.1",
     "Searica-SkilledCarryWeight-1.4.1",
     "Marlthon-OdinShip-0.7.2",
+    "OdinsJanitor-OSP_RemoveSailSong-2.0.0",
     "Marlthon-AirAnimals-0.2.4",
     "MidnightMods-ValheimArmory-1.26.0",
     "Vapok-AdventureBackpacks-1.9.10",
