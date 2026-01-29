@@ -1,1 +1,1 @@
-mod kalcer untuk server valhalla.madewahyudi.com:2222
+mod kalcer untuk private server valhalla.madewahyudi.com:2222
