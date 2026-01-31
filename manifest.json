@@ -1,7 +1,7 @@
 {
   "name": "ValhallaKalcer",
   "description": "nyawit",
-  "version_number": "1.1.2",
+  "version_number": "1.1.3",
   "website_url": "https://github.com/yudi7ll/ValhallaKalcer",
   "dependencies": [
     "shudnal-ConfigurationManager-1.1.12",
@@ -26,6 +26,9 @@
     "Marlthon-AirAnimals-0.2.4",
     "MidnightMods-ValheimArmory-1.26.0",
     "Vapok-AdventureBackpacks-1.9.10",
-    "MathiasDecrock-PlanBuild-0.18.3"
+    "MathiasDecrock-PlanBuild-0.18.3",
+    "shudnal-HipLantern-1.0.23",
+    "oathorse-TubaWalk-0.1.3",
+    "Azumatt-SaveCrossbowState-1.0.2"
   ]
 }
