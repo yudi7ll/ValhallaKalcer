@@ -1,7 +1,7 @@
 {
   "name": "ValhallaKalcer",
   "description": "nyawit",
-  "version_number": "1.1.7",
+  "version_number": "1.1.8",
   "website_url": "https://github.com/yudi7ll/ValhallaKalcer",
   "dependencies": [
     "shudnal-ConfigurationManager-1.1.12",
@@ -33,7 +33,6 @@
     "Azumatt-AzuClock-1.0.5",
     "Azumatt-AzuAutoStore-3.0.11",
     "Somni-BetterNetworking_Valheim-2.3.3",
-    "Marlthon-SeaAnimals-0.3.3",
-    "shudnal-LongshipUpgrades-1.0.14"
+    "Marlthon-SeaAnimals-0.3.3"
   ]
 }
