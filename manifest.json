@@ -1,7 +1,7 @@
 {
   "name": "ValhallaKalcer",
   "description": "nyawit",
-  "version_number": "1.2.0",
+  "version_number": "1.2.1",
   "website_url": "https://github.com/yudi7ll/ValhallaKalcer",
   "dependencies": [
     "shudnal-ConfigurationManager-1.1.12",
@@ -44,6 +44,7 @@
     "ZenDragon-ZenRedecorate-1.2.2",
     "ZenDragon-ZenPath-0.3.3",
     "ZenDragon-ZenUseItem-0.4.0",
+    "ZenDragon-ZenItemStands-0.7.0",
     "ZenDragon-ZenRaids-0.7.3",
     "blacks7ar-NotificationsOverhaul-1.0.1",
     "blacks7ar-WieldEquipmentWhileSwimming-1.1.3",
