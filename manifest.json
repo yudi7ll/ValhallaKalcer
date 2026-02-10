@@ -1,7 +1,7 @@
 {
   "name": "ValhallaKalcer",
   "description": "nyawit",
-  "version_number": "1.1.11",
+  "version_number": "1.2.0",
   "website_url": "https://github.com/yudi7ll/ValhallaKalcer",
   "dependencies": [
     "shudnal-ConfigurationManager-1.1.12",
@@ -13,6 +13,7 @@
     "OdinPlus-CraftyCartsRemake-3.1.12",
     "probablykory-UsefulTrophies-2.2.2",
     "Advize-PlantEverything-1.20.0",
+    "Advize-StumpsRegrow-1.0.5",
     "Crystal-Pathfinder-2.0.13",
     "Mydayyy-ServerSideMap-1.3.13",
     "VentureValheim-Venture_Floating_Items-0.3.3",
@@ -38,6 +39,14 @@
     "virtuaCode-TrashItems-1.2.8",
     "PIXPIX-CartBuddy-0.9.3",
     "UntamedProgress-AbsentBreed-1.0.0",
-    "OldManKatan-Tames_Follow-1.0.1"
+    "OldManKatan-Tames_Follow-1.0.1",
+    "ZenDragon-ZenHoverItem-0.5.0",
+    "ZenDragon-ZenRedecorate-1.2.2",
+    "ZenDragon-ZenPath-0.3.3",
+    "ZenDragon-ZenUseItem-0.4.0",
+    "ZenDragon-ZenRaids-0.7.3",
+    "blacks7ar-NotificationsOverhaul-1.0.1",
+    "blacks7ar-WieldEquipmentWhileSwimming-1.1.3",
+    "Dumba-NoAFKRaids-2.0.0"
   ]
 }
