@@ -1,7 +1,7 @@
 {
   "name": "ValhallaKalcer",
   "description": "nyawit",
-  "version_number": "1.2.3",
+  "version_number": "1.2.4",
   "website_url": "https://github.com/yudi7ll/ValhallaKalcer",
   "dependencies": [
     "shudnal-ConfigurationManager-1.1.12",
@@ -42,7 +42,9 @@
     "OldManKatan-Tames_Follow-1.0.1",
     "ZenDragon-ZenRedecorate-1.2.2",
     "ZenDragon-ZenRaids-0.7.3",
+    "ZenDragon-ZenItemStands-0.7.0",
     "Dumba-NoAFKRaids-2.0.0",
-    "blacks7ar-WieldEquipmentWhileSwimming-1.1.3"
+    "blacks7ar-WieldEquipmentWhileSwimming-1.1.3",
+    "yudi7ll-AutoRemoveDeathPin-1.0.0"
   ]
 }
