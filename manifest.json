@@ -1,10 +1,10 @@
 {
   "name": "ValhallaKalcer",
   "description": "invite only",
-  "version_number": "1.2.6",
+  "version_number": "1.2.7",
   "website_url": "https://github.com/yudi7ll/ValhallaKalcer",
   "dependencies": [
-    "yudi7ll-AutoRemoveDeathPin-1.0.0",
+    "yudi7ll-AutoRemoveDeathPin-1.1.0",
     "MSchmoecker-StartupHotfix-0.1.0",
     "shudnal-ConfigurationManager-1.1.12",
     "aruberuto-AreaRepair-1.0.4",
@@ -39,7 +39,6 @@
     "Azumatt-AzuAutoStore-3.0.11",
     "Somni-BetterNetworking_Valheim-2.3.3",
     "virtuaCode-TrashItems-1.2.8",
-    "PIXPIX-CartBuddy-0.9.3",
     "UntamedProgress-AbsentBreed-1.0.0",
     "OldManKatan-Tames_Follow-1.0.1",
     "ZenDragon-ZenRedecorate-1.2.2",
@@ -47,6 +46,7 @@
     "ZenDragon-ZenItemStands-0.7.0",
     "Dumba-NoAFKRaids-2.0.0",
     "blacks7ar-WieldEquipmentWhileSwimming-1.1.3",
-    "baxhax-OfficialArtLoadingScreens-1.0.6"
+    "baxhax-OfficialArtLoadingScreens-1.0.6",
+    "Ratzu-AutoShield-1.0.1"
   ]
 }
