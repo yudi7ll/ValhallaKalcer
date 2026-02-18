@@ -1,7 +1,7 @@
 {
   "name": "ValhallaKalcer",
   "description": "invite only",
-  "version_number": "1.2.12",
+  "version_number": "1.2.13",
   "website_url": "https://github.com/yudi7ll/ValhallaKalcer",
   "dependencies": [
     "yudi7ll-AutoRemoveDeathPin-1.1.0",
@@ -48,7 +48,6 @@
     "blacks7ar-WieldEquipmentWhileSwimming-1.1.3",
     "blacks7ar-NotificationsOverhaul-1.0.1",
     "baxhax-OfficialArtLoadingScreens-1.0.6",
-    "Ratzu-AutoShield-1.0.1",
-    "blacks7ar-AutoNamePetFromAList-1.0.2"
+    "Ratzu-AutoShield-1.0.1"
   ]
 }
