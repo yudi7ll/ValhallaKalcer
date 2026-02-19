@@ -1,7 +1,7 @@
 {
   "name": "ValhallaKalcer",
   "description": "invite only",
-  "version_number": "1.2.14",
+  "version_number": "1.2.15",
   "website_url": "https://github.com/yudi7ll/ValhallaKalcer",
   "dependencies": [
     "yudi7ll-AutoRemoveDeathPin-1.1.0",
@@ -50,6 +50,7 @@
     "baxhax-OfficialArtLoadingScreens-1.0.6",
     "Ratzu-AutoShield-1.0.1",
     "Nextek-SpeedyPaths-1.0.9",
-    "ZenDragon-ZenUI-1.2.3"
+    "ZenDragon-ZenUI-1.2.3",
+    "PIXPIX-CartBuddy-0.9.3"
   ]
 }
