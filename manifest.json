@@ -1,7 +1,7 @@
 {
   "name": "ValhallaKalcer",
   "description": "invite only",
-  "version_number": "1.2.16",
+  "version_number": "1.2.17",
   "website_url": "https://github.com/yudi7ll/ValhallaKalcer",
   "dependencies": [
     "yudi7ll-AutoRemoveDeathPin-1.1.0",
@@ -42,6 +42,7 @@
     "ZenDragon-ZenRedecorate-1.2.2",
     "ZenDragon-ZenRaids-0.7.3",
     "ZenDragon-ZenItemStands-0.7.0",
+    "ZenDragon-ZenHoverItem-0.5.2",
     "ZenDragon-ZenUI-1.2.3",
     "Dumba-NoAFKRaids-2.0.0",
     "blacks7ar-WieldEquipmentWhileSwimming-1.1.3",
