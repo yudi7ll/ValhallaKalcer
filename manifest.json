@@ -1,7 +1,7 @@
 {
   "name": "ValhallaKalcer",
   "description": "invite only",
-  "version_number": "1.2.15",
+  "version_number": "1.2.16",
   "website_url": "https://github.com/yudi7ll/ValhallaKalcer",
   "dependencies": [
     "yudi7ll-AutoRemoveDeathPin-1.1.0",
@@ -36,7 +36,6 @@
     "Azumatt-SaveCrossbowState-1.0.2",
     "Azumatt-AzuClock-1.0.5",
     "Azumatt-AzuAutoStore-3.0.11",
-    "Somni-BetterNetworking_Valheim-2.3.3",
     "virtuaCode-TrashItems-1.2.8",
     "UntamedProgress-AbsentBreed-1.0.0",
     "OldManKatan-Tames_Follow-1.0.1",
