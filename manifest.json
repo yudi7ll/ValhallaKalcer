@@ -1,7 +1,7 @@
 {
   "name": "ValhallaKalcer",
   "description": "invite only",
-  "version_number": "1.3.3",
+  "version_number": "1.3.4",
   "website_url": "https://github.com/yudi7ll/ValhallaKalcer",
   "dependencies": [
     "yudi7ll-AutoRemoveDeathPin-1.1.0",
@@ -34,7 +34,7 @@
     "oathorse-TubaWalk-0.1.3",
     "Azumatt-Recycle_N_Reclaim-1.3.10",
     "Azumatt-SaveCrossbowState-1.0.2",
-    "Azumatt-AzuClock-1.0.5",
+    "yudi7ll-DisplayDayAndTimeInHUD-0.0.1",
     "Azumatt-AzuAutoStore-3.0.11",
     "virtuaCode-TrashItems-1.2.8",
     "UntamedProgress-AbsentBreed-1.0.0",
