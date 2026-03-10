@@ -1,4 +1,4 @@
 modpack kalcer for private server valhalla.madewahyudi.com:2222
 
 serverside config
-https://github.com/yudi7ll/game-server/tree/main/valhalla/valheim/serverfiles/BepInEx/config
+https://github.com/yudi7ll/game-server/tree/main/valhalla/valheim/server/BepInEx/config
