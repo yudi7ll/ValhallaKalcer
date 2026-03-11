@@ -1,7 +1,7 @@
 {
   "name": "ValhallaKalcer",
   "description": "invite only",
-  "version_number": "1.3.16",
+  "version_number": "1.3.17",
   "website_url": "",
   "dependencies": [
     "yudi7ll-AutoRemoveDeathPin-1.1.0",
@@ -48,7 +48,6 @@
     "GemHunter1-FastTeleport-1.1.0",
     "coemt-StumpsAreOneHp-0.0.1",
     "Smoothbrain-Sailing-1.1.8",
-    "UntamedProgress-AbsentBreed-1.0.0",
     "marcelbpunkt-FastFill-1.0.2"
   ]
 }
