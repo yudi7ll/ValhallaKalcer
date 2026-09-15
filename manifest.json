@@ -1,7 +1,7 @@
 {
   "name": "ValhallaKalcer",
   "description": "invite only",
-  "version_number": "2.0.1",
+  "version_number": "2.1.0",
   "website_url": "",
   "dependencies": [
     "yudi7ll-AutoRemoveDeathPin-1.1.0",
@@ -15,13 +15,18 @@
     "yudi7ll-DisplayDayAndTimeInHUD-0.0.1",
     "virtuaCode-TrashItems-1.2.8",
     "ZenDragon-ZenRaids-0.7.3",
+    "ZenDragon-ZenHoverItem-1.3.0",
+    "ZenDragon-ZenItemStands-1.1.0",
+    "ZenDragon-ZenRedecorate-1.5.0",
     "MSchmoecker-WhichModAddedThis-0.1.1",
-    "jg224-SharedMap-0.5.1",
     "VentureValheim-Venture_Logout_Tweaks-1.0.0",
     "VentureValheim-Venture_Area_Repair-1.0.0",
     "mtsukn-AutoRepair-0.0.1",
     "Neobotics-RequipMe-1.0.0",
     "b0n3-Smartpickup-1.0.9",
-    "TommysMods-Tommys_Ship_Speed-1.1.0"
+    "TommysMods-Tommys_Ship_Speed-1.1.0",
+    "OdinPlus-OdinsFoodBarrels-1.2.6",
+    "shudnal-HipLantern-1.1.8",
+    "Azumatt-Recycle_N_Reclaim-1.4.4"
   ]
 }
