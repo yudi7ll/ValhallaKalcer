@@ -1,7 +1,7 @@
 {
   "name": "ValhallaKalcer",
   "description": "invite only",
-  "version_number": "2.1.1",
+  "version_number": "2.1.2",
   "website_url": "",
   "dependencies": [
     "yudi7ll-AutoRemoveDeathPin-1.1.0",
@@ -26,8 +26,8 @@
     "b0n3-Smartpickup-1.0.9",
     "TommysMods-Tommys_Ship_Speed-1.1.0",
     "OdinPlus-OdinsFoodBarrels-1.2.6",
-    "shudnal-HipLantern-1.1.8",
     "Azumatt-Recycle_N_Reclaim-1.4.4",
-    "Azumatt-AzuAutoStore-3.1.4"
+    "Azumatt-AzuAutoStore-3.1.4",
+    "Vapok-AdventureBackpacks-2.0.4"
   ]
 }
